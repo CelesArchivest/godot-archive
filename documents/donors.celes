@@ -1,0 +1,367 @@
+<!Celes-0.1.5>
+<title>{Donors to the Godot Engine Project}
+
+<header -size=1>{Donors to the Godot Engine project}
+
+
+<list -bullet=circle>{Godot Engine is a non-profit project developed by a community of voluntary}
+<list -bullet=circle>{contributors, as well as occasional paid contributors thanks to the financial}
+<list -bullet=circle>{support of generous donors.}
+
+<list -bullet=circle>{The ways to donate to the project, as well as details on how the funds are}
+<list -bullet=circle>{used, are described on [Godot's website](https://fund.godotengine.org).}
+
+<list -bullet=circle>{The following is a list of the current monthly donors, who will have their}
+<list -bullet=circle>{generous deed immortalized in the next stable release of Godot Engine.}
+
+<header -size=2>{Patrons}
+
+
+<list -bullet=circle>{<link -body=Scorewarrior>{https://scwr.gg/godot}}
+
+<header -size=2>{Platinum sponsors}
+
+
+<list -bullet=circle>{<link -body=JetBrains>{https://www.jetbrains.com/lp/rider-godot/}}
+<list -bullet=circle>{<link -body=V-Sekai>{https://github.com/V-Sekai}}
+<list -bullet=circle>{<link -body=W4 Games>{https://w4games.com/}}
+
+<header -size=2>{Gold sponsors}
+
+
+<list -bullet=circle>{<link -body=Arm>{https://www.arm.com/}}
+<list -bullet=circle>{<link -body=Mega Crit>{https://www.megacrit.com/}}
+<list -bullet=circle>{<link -body=Prehensile Tales>{https://prehensile-tales.com}}
+<list -bullet=circle>{<link -body=Robot Gentleman>{http://robotgentleman.com/}}
+
+<header -size=2>{Silver sponsors}
+
+
+<list -bullet=circle>{<link -body=Bippinbits>{https://bippinbits.com/}}
+<list -bullet=circle>{<link -body=Blobfish Games>{https://www.blobfishgames.com/}}
+<list -bullet=circle>{<link -body=Broken Rules>{https://brokenrul.es}}
+<list -bullet=circle>{<link -body=Chasing Carrots>{https://www.chasing-carrots.com}}
+<list -bullet=circle>{<link -body=Copia Wealth Studios>{https://copiawealthstudios.com/}}
+<list -bullet=circle>{<link -body=Evil Trout Inc.>{https://eviltrout.com/}}
+<list -bullet=circle>{<link -body=Games by Malcs>{https://gamesbymalcs.com/}}
+<list -bullet=circle>{<link -body=LoadComplete>{https://loadcomplete.com/}}
+<list -bullet=circle>{<link -body=Null>{https://null.com/}}
+<list -bullet=circle>{<link -body=Playful Studios>{https://playfulstudios.com/}}
+<list -bullet=circle>{<link -body=Re-Logic>{https://re-logic.com/}}
+<list -bullet=circle>{<link -body=Sentry>{https://sentry.io/welcome/?utm_source=godotengine&utm_medium=paid-community&utm_campaign=gaming-fy26q3-evergreen&utm_content=static-ad-godot-eng-sponsor-trysentry}}
+
+<header -size=2>{Diamond members}
+
+
+<list -bullet=circle>{<link -body=Acerola>{https://www.youtube.com/@Acerola_t}}
+<list -bullet=circle>{<link -body=ASIFA-Hollywood>{https://www.asifa-hollywood.org/}}
+<list -bullet=circle>{<link -body=Christina Coffin>{https://bsky.app/profile/christinacoffin.bsky.social}}
+<list -bullet=circle>{<link -body=Kanda>{https://www.kanda.dk}}
+<list -bullet=circle>{<link -body=Petr Kharitonov>{https://petrkharitonov.com/}}
+<list -bullet=circle>{<link -body=Sylv>{https://rankith.itch.io/unnamed-space-idle-prototype}}
+<list -bullet=circle>{And 1 anonymous donor}
+
+<header -size=2>{Titanium members}
+
+
+<list -bullet=circle>{<link -body=Adriaan de Jongh>{https://adriaan.games}}
+<list -bullet=circle>{Basically Games}
+<list -bullet=circle>{<link -body=Deloryan>{https://www.deloryan.com/}}
+<list -bullet=circle>{<link -body=Draknek & Friends>{https://www.draknek.org/}}
+<list -bullet=circle>{<link -body=Eugene Denisenko>{https://craft.sc/}}
+<list -bullet=circle>{Garry Newman}
+<list -bullet=circle>{<link -body=Justo Delgado Baudí>{https://portfolio.mrcdk.com/}}
+<list -bullet=circle>{<link -body=Kenney>{https://kenney.nl/}}
+<list -bullet=circle>{Lucid Silence Games}
+<list -bullet=circle>{<link -body=Megafauna Games>{https://www.megafauna.games/}}
+<list -bullet=circle>{<link -body=Midjiwan AB>{https://www.midjiwan.com}}
+<list -bullet=circle>{<link -body=NekTek Games>{https://nektek.games/}}
+<list -bullet=circle>{<link -body=Patrick Curry>{https://patrickcurry.com/}}
+<list -bullet=circle>{<link -body=PolyMars>{https://youtube.com/@PolyMarsLIVE}}
+<list -bullet=circle>{<link -body=Purple Moss Collectors>{https://purplemosscollectors.com}}
+<list -bullet=circle>{<link -body=RPG in a Box>{https://www.rpginabox.com}}
+<list -bullet=circle>{<link -body=Tiago Magalhães>{https://azerkail.github.io/}}
+<list -bullet=circle>{<link -body=TrampolineTales>{https://TrampolineTales.com/}}
+<list -bullet=circle>{And 1 anonymous donor}
+
+<header -size=2>{Platinum members}
+
+
+<list -bullet=circle>{@reilaos}
+<list -bullet=circle>{Austin Hackett}
+<list -bullet=circle>{BlockImperiumGames (BIG)}
+<list -bullet=circle>{Bytten Studio}
+<list -bullet=circle>{Caspar Kleijne}
+<list -bullet=circle>{Christopher Shifflett}
+<list -bullet=circle>{Cody Bentley}
+<list -bullet=circle>{Cristian P.}
+<list -bullet=circle>{Daniel Cooper}
+<list -bullet=circle>{Darrin Massena}
+<list -bullet=circle>{DrDeadlock}
+<list -bullet=circle>{Emergo Entertainment}
+<list -bullet=circle>{Eric Burns}
+<list -bullet=circle>{Fabio Alessandrelli}
+<list -bullet=circle>{Francis Nguyen}
+<list -bullet=circle>{Fresh Fineapple}
+<list -bullet=circle>{GrammAcc}
+<list -bullet=circle>{HP van Braam}
+<list -bullet=circle>{Huge Workshop}
+<list -bullet=circle>{iCommitGames}
+<list -bullet=circle>{Jason Hamilton}
+<list -bullet=circle>{Jeremy Blouir}
+<list -bullet=circle>{Jonah Stich}
+<list -bullet=circle>{Josh Anthony}
+<list -bullet=circle>{k1r4n8}
+<list -bullet=circle>{Ludvig Temperli Risan}
+<list -bullet=circle>{Matthew Ekenstedt}
+<list -bullet=circle>{Memories in 8Bit}
+<list -bullet=circle>{Mike King}
+<list -bullet=circle>{Neal Gompa (Conan Kudo)}
+<list -bullet=circle>{Nikita Blizniuk}
+<list -bullet=circle>{Raptor85}
+<list -bullet=circle>{Rémi Verschelde}
+<list -bullet=circle>{Ryan Heath}
+<list -bullet=circle>{Sacha & Solène Waked}
+<list -bullet=circle>{ShikadiGum}
+<list -bullet=circle>{Silver Creek Entertainment}
+<list -bullet=circle>{Stephan Kessler}
+<list -bullet=circle>{Stephen Rice}
+<list -bullet=circle>{theysayheygreg}
+<list -bullet=circle>{Walaber Entertainment}
+<list -bullet=circle>{And 8 anonymous donors}
+
+<header -size=2>{Gold members}
+
+
+<list -bullet=circle>{2 Nerdy Nerds}
+<list -bullet=circle>{73unny}
+<list -bullet=circle>{80px}
+<list -bullet=circle>{A. Friedman}
+<list -bullet=circle>{Abigail F.}
+<list -bullet=circle>{Admiral Potato}
+<list -bullet=circle>{Ajat BlackSun}
+<list -bullet=circle>{Alex177Alex}
+<list -bullet=circle>{alMoo Games}
+<list -bullet=circle>{Alnis Smidchens}
+<list -bullet=circle>{Alva Majo}
+<list -bullet=circle>{Ammerfest}
+<list -bullet=circle>{Amritpal Gill}
+<list -bullet=circle>{Andrea Monzini}
+<list -bullet=circle>{AndreasOM}
+<list -bullet=circle>{Andrew Eiche}
+<list -bullet=circle>{Andrew Zah}
+<list -bullet=circle>{Anfinor Games}
+<list -bullet=circle>{Ariya Studio}
+<list -bullet=circle>{Asher Glick}
+<list -bullet=circle>{Axthelm}
+<list -bullet=circle>{BangTheWall}
+<list -bullet=circle>{Ben Rog-Wilhelm}
+<list -bullet=circle>{Ben Sarsgard [Final Screw]}
+<list -bullet=circle>{Benito}
+<list -bullet=circle>{Benjamin Bridges}
+<list -bullet=circle>{Bryce Dixon}
+<list -bullet=circle>{Bäckdahl}
+<list -bullet=circle>{c64cosmin}
+<list -bullet=circle>{Carl van der Geest}
+<list -bullet=circle>{Carlo Cabanilla}
+<list -bullet=circle>{Carlo del Mundo}
+<list -bullet=circle>{Chaff Games}
+<list -bullet=circle>{Chamber of Light, Flower and Essence Incorporated*}
+<list -bullet=circle>{Chet Faliszek}
+<list -bullet=circle>{Chocolate Software}
+<list -bullet=circle>{Chris Backas}
+<list -bullet=circle>{Christian Mauduit}
+<list -bullet=circle>{Christian Sueiras}
+<list -bullet=circle>{Christine Elisabeth Koppel}
+<list -bullet=circle>{Cindy Trieu}
+<list -bullet=circle>{Codex404}
+<list -bullet=circle>{Conquintor}
+<list -bullet=circle>{cora}
+<list -bullet=circle>{Corey Robinson}
+<list -bullet=circle>{Crni Medved}
+<list -bullet=circle>{Daniel Eichler}
+<list -bullet=circle>{Daniel Krafft}
+<list -bullet=circle>{David Gehrig}
+<list -bullet=circle>{David Snopek}
+<list -bullet=circle>{Deakcor}
+<list -bullet=circle>{Delton Ding}
+<list -bullet=circle>{DIGITAL ILIAD}
+<list -bullet=circle>{Disco Cat}
+<list -bullet=circle>{Distorted Realities}
+<list -bullet=circle>{DitherDream}
+<list -bullet=circle>{Dominic Harris}
+<list -bullet=circle>{Dominik Frizel}
+<list -bullet=circle>{Don't You Know Who I Am? Inc.}
+<list -bullet=circle>{Dosimada}
+<list -bullet=circle>{DullyDev}
+<list -bullet=circle>{Dustuu}
+<list -bullet=circle>{Dylan Dromard}
+<list -bullet=circle>{Eamonn Irvine}
+<list -bullet=circle>{Edelweiss}
+<list -bullet=circle>{eelSkillz}
+<list -bullet=circle>{Ends}
+<list -bullet=circle>{Eric Brand}
+<list -bullet=circle>{Fail Forward Games}
+<list -bullet=circle>{Faisal Al-Kubaisi (QatariGameDev)}
+<list -bullet=circle>{Felix Adam}
+<list -bullet=circle>{FeralBytes}
+<list -bullet=circle>{Frozen Fractal}
+<list -bullet=circle>{GeoScene}
+<list -bullet=circle>{GlassBrick}
+<list -bullet=circle>{Going Loud Studios}
+<list -bullet=circle>{Grau}
+<list -bullet=circle>{Grzegorz Wereszko}
+<list -bullet=circle>{Guangzhou Lingchan}
+<list -bullet=circle>{Hampas}
+<list -bullet=circle>{hiulit}
+<list -bullet=circle>{Holly Stubbs}
+<list -bullet=circle>{Huedeane}
+<list -bullet=circle>{Illyan}
+<list -bullet=circle>{Immaculate Lift Studio}
+<list -bullet=circle>{insomniacKoala}
+<list -bullet=circle>{Intrepid Marmot LLC}
+<list -bullet=circle>{Ione 15}
+<list -bullet=circle>{Isaac Clerencia}
+<list -bullet=circle>{Isaac Marovitz}
+<list -bullet=circle>{Isaac W}
+<list -bullet=circle>{Ivan Tabashki}
+<list -bullet=circle>{jakemiki}
+<list -bullet=circle>{Jason Cawood}
+<list -bullet=circle>{JAX691}
+<list -bullet=circle>{jeff compas}
+<list -bullet=circle>{Jeff Hungerford}
+<list -bullet=circle>{Jesús Chicharro}
+<list -bullet=circle>{JezerM}
+<list -bullet=circle>{Johannes Wuensch}
+<list -bullet=circle>{John Anders Stav}
+<list -bullet=circle>{John Brown}
+<list -bullet=circle>{Jonas Yamazaki}
+<list -bullet=circle>{Jonathan}
+<list -bullet=circle>{Jonathan Bass}
+<list -bullet=circle>{Jordan Chap}
+<list -bullet=circle>{Josh Jones}
+<list -bullet=circle>{Joshua OddBloom}
+<list -bullet=circle>{José Canepa}
+<list -bullet=circle>{Julian Todd}
+<list -bullet=circle>{Justin Laster}
+<list -bullet=circle>{Justin Sasso}
+<list -bullet=circle>{Kagia Benjamin}
+<list -bullet=circle>{Kalydi Balázs}
+<list -bullet=circle>{KAR Games}
+<list -bullet=circle>{Karl Bittner}
+<list -bullet=circle>{Kevin Morrell}
+<list -bullet=circle>{KOGA Mitsuhiro (@shiena)}
+<list -bullet=circle>{korinVR}
+<list -bullet=circle>{Kostya Stankevych}
+<list -bullet=circle>{Kristian Kriehl}
+<list -bullet=circle>{KyletheDab}
+<list -bullet=circle>{Lars Thießen}
+<list -bullet=circle>{LavishBehemoth}
+<list -bullet=circle>{Lee Ingram}
+<list -bullet=circle>{Leo Fruehstueck}
+<list -bullet=circle>{Lisandro Lorea (Red Mage Games)}
+<list -bullet=circle>{Logan Apple}
+<list -bullet=circle>{Los Lecheros Maincreros}
+<list -bullet=circle>{LoveCraftStudio.AI}
+<list -bullet=circle>{Luca Junge}
+<list -bullet=circle>{Luca Vazzano}
+<list -bullet=circle>{Luke_Username}
+<list -bullet=circle>{Lyaaaaa Games}
+<list -bullet=circle>{m1n1ster}
+<list -bullet=circle>{Madison Nicole Videogames}
+<list -bullet=circle>{Manul Opus}
+<list -bullet=circle>{Mara Huldra}
+<list -bullet=circle>{Mara Huldra}
+<list -bullet=circle>{Marcos Vinícius Marcon (Krakaton Games)}
+<list -bullet=circle>{Marek Belski}
+<list -bullet=circle>{Maskerade Games}
+<list -bullet=circle>{Matthias B.}
+<list -bullet=circle>{Meanwhile SRL}
+<list -bullet=circle>{Michael Alexsander}
+<list -bullet=circle>{Michael Gooch}
+<list -bullet=circle>{Miguel RS Gonçalves}
+<list -bullet=circle>{Mike Matthews}
+<list -bullet=circle>{Miles(Wedomi Games)}
+<list -bullet=circle>{Modus Ponens}
+<list -bullet=circle>{Moshe Harris}
+<list -bullet=circle>{Moth Soup}
+<list -bullet=circle>{Mr. Byte}
+<list -bullet=circle>{Nassor Paulino da Silva}
+<list -bullet=circle>{NEKERAFA}
+<list -bullet=circle>{nezticle}
+<list -bullet=circle>{Nicolas Everhart}
+<list -bullet=circle>{Niklas Wahrman}
+<list -bullet=circle>{Nitzan Bueno}
+<list -bullet=circle>{NojuHD}
+<list -bullet=circle>{NotNet}
+<list -bullet=circle>{Officine Pixel}
+<list -bullet=circle>{ohanaya3}
+<list -bullet=circle>{Okatima AB}
+<list -bullet=circle>{ole-luk-oje}
+<list -bullet=circle>{Oscar Robin}
+<list -bullet=circle>{Osirisa}
+<list -bullet=circle>{osje44}
+<list -bullet=circle>{ovym}
+<list -bullet=circle>{Parade of Rain}
+<list -bullet=circle>{Patrick Forringer}
+<list -bullet=circle>{Patrick Traynor}
+<list -bullet=circle>{Paul Bettner}
+<list -bullet=circle>{PeakMaven - Stefan Langwald}
+<list -bullet=circle>{Pete Goodwin}
+<list -bullet=circle>{Peter Langmayr}
+<list -bullet=circle>{Petr Maláč}
+<list -bullet=circle>{Phobos001}
+<list -bullet=circle>{pirey}
+<list -bullet=circle>{Péter Horváth-Lázár}
+<list -bullet=circle>{Rafa Laguna}
+<list -bullet=circle>{re:thinc}
+<list -bullet=circle>{RedEye Games}
+<list -bullet=circle>{Reid Hannaford}
+<list -bullet=circle>{Request}
+<list -bullet=circle>{Ric Janus Sapasap}
+<list -bullet=circle>{Richard Ivánek}
+<list -bullet=circle>{Robin Six}
+<list -bullet=circle>{Rodz Labs}
+<list -bullet=circle>{Roelof Pieters}
+<list -bullet=circle>{Ronny Mühle}
+<list -bullet=circle>{Rubén Rüger}
+<list -bullet=circle>{Samuel Judd}
+<list -bullet=circle>{Santi_FC}
+<list -bullet=circle>{shazzner}
+<list -bullet=circle>{Sheeta Games}
+<list -bullet=circle>{Shifty The Dev}
+<list -bullet=circle>{Shiny Shinken}
+<list -bullet=circle>{Skie Radscale}
+<list -bullet=circle>{Sofox}
+<list -bullet=circle>{Space Kraken Studios}
+<list -bullet=circle>{Spencer Chang}
+<list -bullet=circle>{Spoony Panda}
+<list -bullet=circle>{Stormbrew}
+<list -bullet=circle>{Tanner Storment}
+<list -bullet=circle>{tenuki}
+<list -bullet=circle>{Terry Cavanagh}
+<list -bullet=circle>{terry kasey}
+<list -bullet=circle>{ThatGamer}
+<list -bullet=circle>{Thomas Kurz}
+<list -bullet=circle>{Thomas Lobig}
+<list -bullet=circle>{Tobias Bocanegra}
+<list -bullet=circle>{Tom Langwaldt}
+<list -bullet=circle>{Trevor Slocum}
+<list -bullet=circle>{tukon}
+<list -bullet=circle>{Twirlin' Curtis}
+<list -bullet=circle>{Uriel Campos}
+<list -bullet=circle>{Vincent Foulon}
+<list -bullet=circle>{Vivian Rodríguez Saseta}
+<list -bullet=circle>{Vojtech Lacina}
+<list -bullet=circle>{Watchinofoye}
+<list -bullet=circle>{Xelarender}
+<list -bullet=circle>{zikes}
+<list -bullet=circle>{Zoey Smith}
+<list -bullet=circle>{嗯大爷}
+<list -bullet=circle>{And 117 anonymous donors}
+
+<header -size=2>{Silver and bronze donors}
+
+
+<list -bullet=circle>{There are even more donors that support the project with a small monthly donation.}
+<list -bullet=circle>{Every bit counts and we thank every one of them for their amazing support!}
